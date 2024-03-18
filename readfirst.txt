@@ -1,0 +1,9 @@
+step 1 - install xampp
+
+step  2 - import sql file which is placed inside the folder sql
+
+give database name as signup
+
+step 3 - go to apache admin and  http://localhost/addiction%20relief/first.php# paste this directory in search bar
+
+step 4 - then the website is ready
